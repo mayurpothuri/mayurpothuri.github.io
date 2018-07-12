@@ -163,6 +163,21 @@ body {
     font-size: 30px;
 }
 
+.link-projects{
+    margin: 1.5% auto;
+}
+
+.link-projects a{
+    text-decoration: none;
+    color: aqua;
+    font-size: 40px;
+    font-family: Allura;
+}
+
+.link-projects a:hover{
+    text-decoration: underline;
+}
+
 /*Contact */
 #contact{
     background-image: url('images/contact.jpg');
